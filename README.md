@@ -101,7 +101,7 @@ Tax (15%): $97.50
 Total: $747.50
 ```
 
-🏗️ Future Improvements
+## 🏗️ Future Improvements
 
     ✅ Support multiple category selections with increasing tax
 
@@ -111,7 +111,7 @@ Total: $747.50
 
     🧩 Use struct for better data handling
 
-👤 Author
+## 👤 Author
 
 Muaddh Alsway
 Front-End Developer & C Programmer
@@ -120,10 +120,10 @@ Front-End Developer & C Programmer
 🪪 License
 
 This project is open-source and available under the MIT License.
-🌟 Special Tagline
+## 🌟 Special Tagline
 
     "From logic to life — building C projects that simulate the real world."
 
-🔖 Hashtags (For Discoverability)
+## 🔖 Hashtags (For Discoverability)
 
 #CProgramming #DeepDiveInC #TerminalApp #SmartCart #BeginnerProject #CLIApp #TaxCalculator #CodeNewbie
