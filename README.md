@@ -115,14 +115,24 @@ Total: $747.50
 
 Muaddh Alsway
 Front-End Developer & C Programmer
-📧 Email: muaddh@example.com
-🔗 LinkedIn
-🪪 License
+
+  <a href="https://mail.google.com/mail/muaddhalsway.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/muaddh-alsway/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+
+## 🪪 License
 
 This project is open-source and available under the MIT License.
+
 ## 🌟 Special Tagline
 
     "From logic to life — building C projects that simulate the real world."
+
+## qlink Project
+
 
 ## 🔖 Hashtags (For Discoverability)
 
