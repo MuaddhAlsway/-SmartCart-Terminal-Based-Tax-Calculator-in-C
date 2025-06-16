@@ -1,4 +1,4 @@
-# 🛒 SmartCart — Deep Dive in C (Project 3)
+# 🛒 SmartCart — Deep Dive in C 
 
 Welcome to **SmartCart**, a C terminal-based shopping simulator and tax calculator.  
 This project is part of my **Deep Dive in C** series, where I build logic-driven apps using pure C without external libraries.
